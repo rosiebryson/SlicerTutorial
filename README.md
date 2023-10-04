@@ -1,35 +1,32 @@
-# SlicerTutorial
+# Slicer Tutorial: Collecting Orbital Circumference in 3D Slicer
 
-#HOW TO: Collect Orbital Circumference in 3D Slicer
+**STEP 1:** Navigate to the **Segment Editor module** and create a segmentation of the skull.
 
-## We'll begin in the **Segment Editor module**. Start by creating a segmentation of the skull.
+<img src="https://raw.githubusercontent.com/rosiebryson/SlicerTutorial/main/Tutorial%20Images/Pic%201.png">
 
-Insert Image 1 here.
+**STEP 2:** Next, rotate your segmentation so that the **LEFT** orbit is oriented towards you.
 
-## Next, rotate your segmentation so that the **LEFT** orbit is oriented towards you.
+<img src="https://raw.githubusercontent.com/rosiebryson/SlicerTutorial/main/Tutorial%20Images/Pic%202.png">
 
-Insert Image 2 here.
+**STEP 3:** Navigate to the **Markups Module**
 
-## Navigate to the **Markups Module**
+<img src="https://raw.githubusercontent.com/rosiebryson/SlicerTutorial/main/Tutorial%20Images/Pic%203.png">
 
-Insert Image 3 here
+**STEP 4:** Create a **Closed Curve**
 
-## Create a **Closed Curve**
+<img src="https://raw.githubusercontent.com/rosiebryson/SlicerTutorial/main/Tutorial%20Images/Pic%204.png">
 
-Insert Image 4 here
+**STEP 5:** Place points around the orbital aperture following the natural contour of the margin.
 
-## Place points around the orbital apertuer following the natural contour of the margin.
+<img src= "https://raw.githubusercontent.com/rosiebryson/SlicerTutorial/main/Tutorial%20Images/Pic%205.png"> 
 
-Insert Image 5 here. (Skip photo 6)
+**STEP 6:** Now rotate your segmentation and adjust the points as necessary to best fit the anatomy or the orbital margin. Make sure to look at it from all angles.
 
-## Now rotate your segmentation and adjust the points as necessary to best fit the anatomy or the orbital margin. Make sure to look at it from all angles.
+<img src="https://raw.githubusercontent.com/rosiebryson/SlicerTutorial/main/Tutorial%20Images/Pic%207.png">
 
-Insert image 7 here.
+**STEP 7:** Now that you've finished collecting your closed curve, click on the **Measurements** dropdown menu on the left hand side of the screen. Select the measurement you'd like to collect: **"Length"** of this closed curve will give you **Circumference,** and **"Area"** will give you the **Orbital Aperture area.**
 
-## Now that you've finished collecting your Closed Curve, click on the ** Measurements** dropdown menu on the left hand side of the screen:
+<img src="https://raw.githubusercontent.com/rosiebryson/SlicerTutorial/main/Tutorial%20Images/Pic%208.png">
 
-Insert Image 8
-
-## And select the measurement you'd like to collect: "Length" of this closed curve will give you Circumference, "Area" will give you the Orbital Aperture area.
-
-Insert Image 9
+**Finished!** Your measurements are now visible in the **Measurements** section.
+<img src="https://raw.githubusercontent.com/rosiebryson/SlicerTutorial/main/Tutorial%20Images/Pic%209.png">
